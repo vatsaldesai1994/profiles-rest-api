@@ -1,0 +1,44 @@
+1. CM is common market i.e it will be presetn across all gateways/connectivity
+
+2. CM_R4Q and CM Trade feeds into MKVDEALSummaryleg
+
+3. Quote captures all offering prices
+
+4. Data chooser - ctrl+D. refdata-->CM_Counterparty--> .....
+
+5. TDS -> UAT, TDS2 -> DEV for candeal gateways
+
+6.
+
+7. On SysAdmin you have to establish connections.
+
+For example, i want to run MMI in DEV and UAT so they are two independent environments
+and you have to establish connections in both environments independently
+
+so for MMI DEV, open \\NASOC01APRS01.tdbfg.com\C09757_NYION_S_01\GlobalION\DEV\bin\Launch MMI DEV UAT -P Drive
+Then choose environment on the MMI pop up and login ID.
+(log ID for UAT and DEV should be different)
+
+8. TABLE table -- > query
+
+9.
+
+
+******************************************************************************888
+
+1. ION MMI options--> Negotiation settings:  -_> candeal->trader teams--> CAD PROV/GOV/CTB --> here  you can manage the trader teams
+
+2. Router rules:
+
+3. DHR = accepted(TD done) volume /  sum(TD done, done traded away)
+
+4. HTC (hit tied covered) = sum(covered,tied) / sum(TD done,done traded away)
+
+5. GOVIES, CMB (canada Mortgage bonds)
+
+6. Collect evidence for GOV/PROV/CMB
+Collect evidence, and document, for DHR and HTC.
+
+* inflation liknked bonds and real return bonds
+
+* risk neutral switch trade
