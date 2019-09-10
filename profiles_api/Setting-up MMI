@@ -19,7 +19,7 @@ so for MMI DEV, open \\NASOC01APRS01.tdbfg.com\C09757_NYION_S_01\GlobalION\DEV\b
 Then choose environment on the MMI pop up and login ID.
 (log ID for UAT and DEV should be different)
 
-8. TABLE table -- > Query
+8. TABLE table -- > query
 
 9.
 
