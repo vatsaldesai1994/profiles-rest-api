@@ -1,0 +1,14 @@
+Django REST framework views
+
+--> Uses standard HTTP methods like get, post, put, patch, delete
+
+Give control over app logic
+  - for implementing complex logic
+
+
+when to use?
+  - Access local files and systems
+  - Full control of app logic
+  - Updating multiple data source in one call
+  - Processing files and rendering synchronous response
+  -calling other APIs

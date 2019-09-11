@@ -1,0 +1,30 @@
+  Django is a web development framework
+
+HTML - Structure of web page(make up)
+CSS - Designing web page (Aesthetics)
+JAVASCRIPT - For interactive webpage
+
+Backend languages - Servlet, python, javascript, python, PHP, Java
+
+
+--> You can create backend web dev in python by using django
+
+--> MVC - Model (data) View (html format) Controller (control operations)
+
+--> Django works in MVT (model view template- little different from mvc)
+
+--> Why django?
+    1. Django support python language for backend and it is faster
+    There are other framkeworks that support python
+
+    2. Number of components available are more
+    eg- DB connectivity,
+
+    3. Security
+    eg - Secured data transfer using hash
+
+    4. scalability
+
+
+Webpages 1. static (scotiabank login webpage, newspaper)
+          2. dynamic (facebook, amazon)
